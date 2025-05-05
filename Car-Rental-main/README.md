@@ -29,7 +29,7 @@ It has:-
 
 1 - Download the Project:
 
-     git clone https://github.com/janhviSoni18/Car-Rental-System
+     git clone https://github.com/utkarsh-1211/Car-Rental-System
      cd Car-Rental-System
 
 2 - Set Up Java:
